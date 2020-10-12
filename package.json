@@ -35,7 +35,7 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "http://psw0962.github.io/TodoList_react",
+    "homepage": "https://psw0962.github.io/TodoList_react",
     "devDependencies": {
         "gh-pages": "^3.1.0"
     }
